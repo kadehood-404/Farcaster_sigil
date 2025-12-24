@@ -20,6 +20,6 @@ You’ll need a **Neynar API Key**. Get one [here](https://neynar.com/).
 
 ### 2. Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/kade-street-cred.git](https://github.com/YOUR_USERNAME/kade-street-cred.git)
+git clone [https://github.com/kadehood-404/kade-street-cred.git]
 cd kade-street-cred
 pip install -r requirements.txt
